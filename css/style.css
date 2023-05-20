@@ -7,11 +7,14 @@
     --dark: #011A41;
 }
 .logo1 {
-    width: 70px;
-    margin-bottom: 30px;
+    width: 50px;
+    margin-bottom: 20px;
 }
 .red {
     color:#e60000;
+}
+.blue {
+    color: #355EFC;
 }
 
 .back-to-top {
