@@ -562,4 +562,19 @@ h6,
     color: var(--primary);
 }
 
- 
+ /***Company Logo ***/
+.smart {
+    color: #355efc;
+}
+.load {
+    color: #fe0404;
+}
+.td {
+    color: darkgreen;
+}
+.omega {
+    color: #ef7914;
+}
+.lin {
+    color:#c6b304;
+}
