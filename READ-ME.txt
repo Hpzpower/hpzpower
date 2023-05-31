@@ -1,9 +1,7 @@
-  =>  Template Name    : Finanza - Financial Services Website Template
-
-  =>  Template Link    : https://htmlcodex.com/financial-services-website-template
-
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
+<!-- =======================================================
+  * Company Name: HPZ Power Co.ltd; 
+  * Updated: June 3 2023 v5.2.3
+  * Source Code Owner: U Htet Nay Aung
+  * Developer: Min Min Zaw
+  * License: https://HPZpower.com/license/
+  ======================================================== -->
